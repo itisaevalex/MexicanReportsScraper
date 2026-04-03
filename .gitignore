@@ -1,0 +1,4 @@
+pdfs/
+filings.json
+__pycache__/
+*.pyc
