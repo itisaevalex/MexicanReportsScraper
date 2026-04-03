@@ -1,4 +1,6 @@
-# CNBV STIV-2 Mexican Financial Filings Scraper
+<p align="center">
+  <img src="assets/banner.svg" alt="CNBV-SCRAPER" width="100%">
+</p>
 
 Scrapes Mexico's regulatory financial filings portal (STIV-2) — the Mexican equivalent of SEC EDGAR — using raw HTTP requests. No headless browsers.
 
