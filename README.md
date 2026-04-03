@@ -8,7 +8,7 @@ Scrapes Mexico's regulatory financial filings portal (STIV-2) — the Mexican eq
 
 ## What It Does
 
-1. **Scrapes** the filings table with full pagination support (~14,000 filings available)
+1. **Scrapes** the filings table with full pagination support (~450,000 filings available)
 2. **Extracts** structured data (Date, Emisora/Issuer, Asunto/Event) into JSON
 3. **Downloads** the attached documents (PDFs, XLS, etc.) for each filing
 
