@@ -165,17 +165,9 @@
 
   <!-- Bottom tagline with pixel accents -->
   <g>
-    <!-- Left pixel dash -->
-    <rect x="280" y="205" width="20" height="3" fill="#e8a825" opacity="0.6"/>
-    <rect x="308" y="205" width="8" height="3" fill="#d4782a" opacity="0.4"/>
-
     <text x="600" y="210" text-anchor="middle" font-family="'Courier New', 'Consolas', monospace" font-size="14" fill="#6a6a8a" letter-spacing="4">
       RAW HTTP // NO HEADLESS BROWSERS // ASPX REVERSE-ENGINEERED
     </text>
-
-    <!-- Right pixel dash -->
-    <rect x="892" y="205" width="8" height="3" fill="#d4782a" opacity="0.4"/>
-    <rect x="908" y="205" width="20" height="3" fill="#e8a825" opacity="0.6"/>
   </g>
 
   <!-- Bottom tech badges -->
